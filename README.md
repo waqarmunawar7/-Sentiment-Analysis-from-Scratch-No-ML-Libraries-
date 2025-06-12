@@ -7,7 +7,7 @@ This project implements a simple sentiment analysis classifier using **logistic 
 ## 📂 Project Structure
 
 ```
-.
+
 ├── tweets.txt        # Your labeled tweet dataset
 ├── sentiment_analysis.py  
 └── README.md                
